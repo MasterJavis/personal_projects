@@ -4,7 +4,7 @@
 
 ## ¿Qué es PocketSales?
 
-PocketSales es un **sistema de punto de venta móvil** (mPOS) multi-tenant diseñado para pequeñas y medianas empresas en Latinoamérica. Permite a negocios gestionar inventario, ventas, recetas (BOM), turnos y sincronización offline desde un dispositivo Android.
+PocketSales es un **sistema de punto de venta móvil** (mPOS) multi-tenant diseñado para pequeñas y medianas empresas. Permite a negocios gestionar inventario, ventas, recetas (BOM), turnos y sincronización offline desde un dispositivo Android.
 
 ---
 
