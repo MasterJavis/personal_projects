@@ -1,7 +1,5 @@
 # PocketSales — Resumen Ejecutivo del Proyecto
 
-> Documento preparado para reunión con Redmol — Mayo 2026
-
 ---
 
 ## ¿Qué es PocketSales?
@@ -66,7 +64,7 @@ El sistema separa lecturas de escrituras (CQRS) con un bus de eventos asíncrono
 
 ## Diferenciador técnico: Agente de IA local
 
-PocketSales cuenta con un **agente de programación autónomo** que corre completamente en hardware local (GPU dedicada) y opera sobre el codebase via Claude Code. Ver documento `ai_agent_local.md` para detalle completo.
+PocketSales cuenta con un **agente de programación autónomo** que corre completamente en hardware local (GPU dedicada) y puede operar sobre el codebase via Claude Code. Ver documento `ai_agent_local.md` para detalle completo.
 
 En síntesis:
 - El agente recibe tareas en lenguaje natural y genera, valida y aplica código de producción de forma autónoma
@@ -84,8 +82,3 @@ En síntesis:
 | `pocketsales-agent` | Agente de IA autónomo que desarrolla sobre `android-sales` |
 
 ---
-
-## Contacto
-
-**Javier** — Fundador & CTO  
-Reunión Redmol: Martes 19, 5:00pm (Google Meet)
