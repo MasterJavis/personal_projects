@@ -142,7 +142,6 @@ architecture-beta
     shadow:T -- B:exec
     risk:L -- R:orch
     emv:L -- R:orch
-</mermaid>
 ```
 
 ### 2.2 Component Descriptions
